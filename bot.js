@@ -2,7 +2,8 @@ require("dotenv").config();
 const fs = require("node:fs");
 const path = require("node:path");
 const {TOKEN} = process.env;
-const {GatewayIntentBits,Client,Events,Collection,AttachmentBuilder,EmbedBuilder} = require("discord.js");
+const {GatewayIntentBits,Client,Events,Collection,AttachmentBuilder,EmbedBuilder, ActivityType} = require("discord.js");
+const champions = require("./data/champions.json");
 
 const client = new Client({
     intents: [
@@ -58,6 +59,35 @@ client.on(Events.InteractionCreate, async (interaction) => {
 
 client.once(Events.ClientReady, (c) => {
     console.log(`Ready! Logged in as ${c.user.tag}`);
+
+    client.user.setActivity({
+      name: "with your fates",
+      type: ActivityType.Playing,
+    })
 });
+
+//AUTOCOMPLETE FOR TEAMOVERVIEW
+client.on(Events.InteractionCreate, async (interaction) => {
+  if(!interaction.isAutocomplete()) return;
+  if(interaction.commandName !=="teamoverview") return;
+
+  const focussedOption = interaction.options.getFocused(true);
+
+ if(focussedOption.name.startsWith("champion")){
+    const filteredChoices = champions.filter((champion) =>
+      champion.name.toLowerCase().startsWith(focussedOption.value.toLowerCase())
+      );
   
+      const results = filteredChoices.map((choice) => {
+        return {
+          name: `${choice.name}`,
+          value: choice.id,
+          }
+      });
+  
+      interaction.respond(results.slice(0, 25)).catch(() => {});
+  }
+
+});
+
 client.login(TOKEN);
