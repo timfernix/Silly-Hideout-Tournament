@@ -66,9 +66,9 @@ module.exports = {
           .setDescription(`${embedDescription}`)
           .setTimestamp()
           .setFooter({text: "Generated: "})
-          .setImage("https://i.ibb.co/yVyw12b/LOL-CMS-217-Article-01-9xkwa793w86kqwa9lu0y.jpg")
+          .setImage('attachment://team.jpg')
 
-        return interaction.reply({ embeds: [embed] });
+        return interaction.reply({ embeds: [embed], files: ['./commands/img/team.jpg'] });
     }
 
 }
