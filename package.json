@@ -1,14 +1,14 @@
 {
   "name": "silly-hideout-tournament",
-  "version": "2.3.0",
+  "version": "2.5.0",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["discordbot", "discordjs", "nodejs", "leagueoflegends", "champions"],
+  "author": "timfernix",
   "license": "ISC",
-  "description": "",
+  "description": "discordJS Bot with a few simple features",
   "dependencies": {
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
