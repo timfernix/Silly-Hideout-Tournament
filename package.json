@@ -1,6 +1,6 @@
 {
   "name": "silly-hideout-tournament",
-  "version": "2.5.0",
+  "version": "2.8.0",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "discordJS Bot with a few simple features",
   "dependencies": {
+    "dayjs": "^1.11.12",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
