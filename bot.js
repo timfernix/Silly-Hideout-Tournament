@@ -1,9 +1,10 @@
 require("dotenv").config();
 const fs = require("node:fs");
 const path = require("node:path");
-const {TOKEN} = process.env;
-const {GatewayIntentBits,Client,Events,Collection,AttachmentBuilder,EmbedBuilder, ActivityType} = require("discord.js");
 const champions = require("./data/champions.json");
+
+const {TOKEN} = process.env;
+const {GatewayIntentBits,Client,Events,Collection, ActivityType} = require("discord.js");
 
 const client = new Client({
     intents: [
@@ -12,6 +13,7 @@ const client = new Client({
       GatewayIntentBits.GuildEmojisAndStickers,
       GatewayIntentBits.GuildMessages,
       GatewayIntentBits.MessageContent,
+      GatewayIntentBits.GuildMessagePolls,
     ],
   });
 
@@ -43,7 +45,6 @@ client.on(Events.InteractionCreate, async (interaction) => {
       console.error(`No command matching ${interaction.commandName} was found`);
       return;
     }
-  
     try {
       await command.execute(interaction);
     } catch (error) {
@@ -53,8 +54,7 @@ client.on(Events.InteractionCreate, async (interaction) => {
         ephemeral: true,
       });
     }
-  
-    console.log(interaction);
+    //console.log(interaction);
   });
 
 client.once(Events.ClientReady, (c) => {
@@ -66,7 +66,6 @@ client.once(Events.ClientReady, (c) => {
     })
 });
 
-//AUTOCOMPLETE FOR TEAMOVERVIEW
 client.on(Events.InteractionCreate, async (interaction) => {
   if(!interaction.isAutocomplete()) return;
   if(interaction.commandName !=="teamoverview") return;
