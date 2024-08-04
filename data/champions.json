@@ -1,1 +1,11 @@
-//Put your champions here
+[
+    { 
+        id: "",
+        name: "",
+        smoothName: "",
+        title: "",
+        role: [""],
+    },
+// PUT YOUR CHAMPIONS HERE
+  
+]
