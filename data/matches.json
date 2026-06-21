@@ -1,0 +1,87 @@
+[
+  {
+    "id": "M-20260621-W1YL",
+    "guildId": "1179434090412380252",
+    "channelId": "1518272441238028449",
+    "messageId": "1518273997677269054",
+    "title": "Game 1 - Test",
+    "status": "finished",
+    "winner": "Blue",
+    "score": "1:0",
+    "blueSide": [
+      {
+        "player": "Ardi",
+        "championLabel": "Aatrox",
+        "emoji": "<:ch_aatrox:1518245124730257508>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Aatrox.png"
+      },
+      {
+        "player": "Tim",
+        "championLabel": "Bel'Veth",
+        "emoji": "<:ch_belveth:1518245142635483156>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Belveth.png"
+      },
+      {
+        "player": "Mama",
+        "championLabel": "Veigar",
+        "emoji": "<:ch_veigar:1518245310395322398>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Veigar.png"
+      },
+      {
+        "player": "Papa",
+        "championLabel": "Ezreal",
+        "emoji": "<:ch_ezreal:1518245162814410824>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ezreal.png"
+      },
+      {
+        "player": "Vogel",
+        "championLabel": "Amumu",
+        "emoji": "<:ch_amumu:1518245132456165566>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Amumu.png"
+      }
+    ],
+    "redSide": [
+      {
+        "player": "Doran",
+        "championLabel": "Ambessa",
+        "emoji": "<:ch_ambessa:1518245131235622922>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ambessa.png"
+      },
+      {
+        "player": "Oner",
+        "championLabel": "Briar",
+        "emoji": "<:ch_briar:1518245147572179145>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Briar.png"
+      },
+      {
+        "player": "Faker",
+        "championLabel": "LeBlanc",
+        "emoji": "<:ch_leblanc:1518245207722950779>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Leblanc.png"
+      },
+      {
+        "player": "Gumayusi",
+        "championLabel": "Caitlyn",
+        "emoji": "<:ch_caitlyn:1518245148633600103>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Caitlyn.png"
+      },
+      {
+        "player": "Keria",
+        "championLabel": "Bard",
+        "emoji": "<:ch_bard:1518245141419393125>",
+        "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Bard.png"
+      }
+    ],
+    "blueTeamName": "aqaa",
+    "redTeamName": "1,2,3,4,5",
+    "createdAt": "2026-06-21T15:18:48.690Z",
+    "updatedAt": "2026-06-21T15:19:35.296Z",
+    "createdBy": "340299099683422208",
+    "createdByTag": "sleepyardi",
+    "updatedBy": "340299099683422208",
+    "updatedByTag": "sleepyardi",
+    "startedAt": "2026-06-21T15:19:14.063Z",
+    "finishedAt": "2026-06-21T15:19:35.296Z",
+    "statsApplied": true
+  }
+]

@@ -1,18 +1,47 @@
-const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
+import { EmbedBuilder, MessageFlags, SlashCommandBuilder } from "discord.js";
 
-module.exports = {
+export default {
     data: new SlashCommandBuilder()
-        .setName("commands")
-        .setDescription("Lists all commands available on the bot"),
+        .setName("help")
+        .setDescription("Show the current bot commands"),
 
-        async execute (interaction){
+    async execute(interaction) {
+        const isAdmin = interaction.memberPermissions?.has("Administrator") ?? false;
+        const userCommands = [
+            "Silly Hideout Tournament is a bot to create matches, roll champions, and track results.",
+            "",
+            "**📋 User Commands**",
+            "`/help` - Show this overview.",
+            "`/champions status` - Show champion data status.",
+            "`/champions winrates` - Show champion winrates.",
+            "`/random champion` - Pick a random champion for a role.",
+            "`/match status` - Show match details.",
+            "`/match list` - List recent matches.",
+        ];
 
-            const embed = new EmbedBuilder()
-            .setTitle("Command list")
-            .setDescription("**General Commands:** \n </about:1265395471430713435> Shows info about the bot \n </commands:1268642842234851430> Shows this list \n</random:1264956087606448190> Returns a random champion for a selected role \n </teambuilder:1265396931417473106> Shuffles players into random teams with given size\n </timestamp:1268988698834374758> Converts a date into a discord timestamp\n\n**Administrative commands** \n </tournament-poll:1268295381700313221> Lets you create polls for a tournament \n </teamoverview:1267157739013013534> Creates an overview for a match of 2 teams \n </setwinner:1268295381700313220> Edits the matchembed to add the winning team")
-            .setColor(0xFFEA00) 
+        const adminCommands = [
+            "",
+            "**⚙️ Admin Commands**",
+            "`/champions sync` - Sync champions and emojis from Riot.",
+            "`/champions reset` - Clear all matches and champion stats.",
+            "`/teambuilder shuffle` - Shuffle players into teams.",
+            "`/teambuilder set` - Set custom teams with per-team player lists.",
+            "`/match create` - Create a match.",
+            "`/match start` - Set a match to live.",
+            "`/match setwinner` - Set the winner and finish a match.",
+            "`/match cancel` - Cancel a match.",
+            "`/tournament-poll create` - Create tournament polls.",
+        ];
 
-            return interaction.reply({embeds: [embed]});
-        },
+        const description = isAdmin
+            ? [...userCommands, ...adminCommands].join("\n")
+            : userCommands.join("\n");
 
-}
+        const embed = new EmbedBuilder()
+            .setTitle("Command overview")
+            .setColor(0xffea00)
+            .setDescription(description);
+
+        await interaction.reply({ embeds: [embed], flags: MessageFlags.Ephemeral });
+    },
+};
