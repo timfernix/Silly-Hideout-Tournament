@@ -1,0 +1,3043 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "smoothName": "Aatrox",
+    "title": "the Darkin Blade",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Aatrox.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_aatrox",
+    "emojiId": "1518245124730257508",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_aatrox:1518245124730257508>"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "smoothName": "Ahri",
+    "title": "the Nine-Tailed Fox",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ahri.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ahri",
+    "emojiId": "1518245125938090134",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ahri:1518245125938090134>"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "smoothName": "Akali",
+    "title": "the Rogue Assassin",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Akali.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_akali",
+    "emojiId": "1518245126990725130",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_akali:1518245126990725130>"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "smoothName": "Akshan",
+    "title": "the Rogue Sentinel",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Akshan.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_akshan",
+    "emojiId": "1518245128869773436",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_akshan:1518245128869773436>"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "smoothName": "Alistar",
+    "title": "the Minotaur",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Alistar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_alistar",
+    "emojiId": "1518245130006429768",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_alistar:1518245130006429768>"
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "smoothName": "Ambessa",
+    "title": "Matriarch of War",
+    "role": [
+      "Mid",
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ambessa.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ambessa",
+    "emojiId": "1518245131235622922",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ambessa:1518245131235622922>"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "smoothName": "Amumu",
+    "title": "the Sad Mummy",
+    "role": [
+      "Support",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Amumu.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_amumu",
+    "emojiId": "1518245132456165566",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_amumu:1518245132456165566>"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "smoothName": "Anivia",
+    "title": "the Cryophoenix",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Anivia.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_anivia",
+    "emojiId": "1518245133643157554",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_anivia:1518245133643157554>"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "smoothName": "Annie",
+    "title": "the Dark Child",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Annie.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_annie",
+    "emojiId": "1518245134796329010",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_annie:1518245134796329010>"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "smoothName": "Aphelios",
+    "title": "the Weapon of the Faithful",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Aphelios.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_aphelios",
+    "emojiId": "1518245135920398416",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_aphelios:1518245135920398416>"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "smoothName": "Ashe",
+    "title": "the Frost Archer",
+    "role": [
+      "Adc",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ashe.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ashe",
+    "emojiId": "1518245136952201299",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ashe:1518245136952201299>"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "smoothName": "AurelionSol",
+    "title": "The Star Forger",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/AurelionSol.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_aurelionsol",
+    "emojiId": "1518245138151772242",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_aurelionsol:1518245138151772242>"
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "smoothName": "Aurora",
+    "title": "the Witch Between Worlds",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Aurora.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_aurora",
+    "emojiId": "1518245139364188240",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_aurora:1518245139364188240>"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "smoothName": "Azir",
+    "title": "the Emperor of the Sands",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Azir.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_azir",
+    "emojiId": "1518245140328743013",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_azir:1518245140328743013>"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "smoothName": "Bard",
+    "title": "the Wandering Caretaker",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Bard.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_bard",
+    "emojiId": "1518245141419393125",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_bard:1518245141419393125>"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "smoothName": "Belveth",
+    "title": "the Empress of the Void",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Belveth.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_belveth",
+    "emojiId": "1518245142635483156",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_belveth:1518245142635483156>"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "smoothName": "Blitzcrank",
+    "title": "the Great Steam Golem",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Blitzcrank.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_blitzcrank",
+    "emojiId": "1518245143415750757",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_blitzcrank:1518245143415750757>"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "smoothName": "Brand",
+    "title": "the Burning Vengeance",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Brand.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_brand",
+    "emojiId": "1518245144959389746",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_brand:1518245144959389746>"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "smoothName": "Braum",
+    "title": "the Heart of the Freljord",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Braum.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_braum",
+    "emojiId": "1518245145953439959",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_braum:1518245145953439959>"
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "smoothName": "Briar",
+    "title": "the Restrained Hunger",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Briar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_briar",
+    "emojiId": "1518245147572179145",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_briar:1518245147572179145>"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "smoothName": "Caitlyn",
+    "title": "the Sheriff of Piltover",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Caitlyn.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_caitlyn",
+    "emojiId": "1518245148633600103",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_caitlyn:1518245148633600103>"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "smoothName": "Camille",
+    "title": "the Steel Shadow",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Camille.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_camille",
+    "emojiId": "1518245149908406272",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_camille:1518245149908406272>"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "smoothName": "Cassiopeia",
+    "title": "the Serpent's Embrace",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Cassiopeia.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_cassiopeia",
+    "emojiId": "1518245151217287168",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_cassiopeia:1518245151217287168>"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "smoothName": "Chogath",
+    "title": "the Terror of the Void",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Chogath.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_chogath",
+    "emojiId": "1518245152139772135",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_chogath:1518245152139772135>"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "smoothName": "Corki",
+    "title": "the Daring Bombardier",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Corki.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_corki",
+    "emojiId": "1518245153381421086",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_corki:1518245153381421086>"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "smoothName": "Darius",
+    "title": "the Hand of Noxus",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Darius.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_darius",
+    "emojiId": "1518245154623066263",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_darius:1518245154623066263>"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "smoothName": "Diana",
+    "title": "Scorn of the Moon",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Diana.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_diana",
+    "emojiId": "1518245155709124731",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_diana:1518245155709124731>"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "smoothName": "DrMundo",
+    "title": "the Madman of Zaun",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/DrMundo.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_drmundo",
+    "emojiId": "1518245156908695572",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_drmundo:1518245156908695572>"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "smoothName": "Draven",
+    "title": "the Glorious Executioner",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Draven.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_draven",
+    "emojiId": "1518245157907070998",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_draven:1518245157907070998>"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "smoothName": "Ekko",
+    "title": "the Boy Who Shattered Time",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ekko.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ekko",
+    "emojiId": "1518245158846599219",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ekko:1518245158846599219>"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "smoothName": "Elise",
+    "title": "the Spider Queen",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Elise.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_elise",
+    "emojiId": "1518245160264142888",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_elise:1518245160264142888>"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "smoothName": "Evelynn",
+    "title": "Agony's Embrace",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Evelynn.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_evelynn",
+    "emojiId": "1518245161619165225",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_evelynn:1518245161619165225>"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "smoothName": "Ezreal",
+    "title": "the Prodigal Explorer",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ezreal.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ezreal",
+    "emojiId": "1518245162814410824",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ezreal:1518245162814410824>"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "smoothName": "Fiddlesticks",
+    "title": "the Ancient Fear",
+    "role": [
+      "Support",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Fiddlesticks.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_fiddlesticks",
+    "emojiId": "1518245163867050057",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_fiddlesticks:1518245163867050057>"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "smoothName": "Fiora",
+    "title": "the Grand Duelist",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Fiora.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_fiora",
+    "emojiId": "1518245165226000415",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_fiora:1518245165226000415>"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "smoothName": "Fizz",
+    "title": "the Tidal Trickster",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Fizz.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_fizz",
+    "emojiId": "1518245166232633396",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_fizz:1518245166232633396>"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "smoothName": "Galio",
+    "title": "the Colossus",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Galio.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_galio",
+    "emojiId": "1518245167700906085",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_galio:1518245167700906085>"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "smoothName": "Gangplank",
+    "title": "the Saltwater Scourge",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Gangplank.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_gangplank",
+    "emojiId": "1518245168749482064",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_gangplank:1518245168749482064>"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "smoothName": "Garen",
+    "title": "The Might of Demacia",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Garen.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_garen",
+    "emojiId": "1518245170313691307",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_garen:1518245170313691307>"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "smoothName": "Gnar",
+    "title": "the Missing Link",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Gnar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_gnar",
+    "emojiId": "1518245171685228614",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_gnar:1518245171685228614>"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "smoothName": "Gragas",
+    "title": "the Rabble Rouser",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Gragas.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_gragas",
+    "emojiId": "1518245172696191068",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_gragas:1518245172696191068>"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "smoothName": "Graves",
+    "title": "the Outlaw",
+    "role": [
+      "Adc",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Graves.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_graves",
+    "emojiId": "1518245174000615424",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_graves:1518245174000615424>"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "smoothName": "Gwen",
+    "title": "The Hallowed Seamstress",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Gwen.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_gwen",
+    "emojiId": "1518245174680096911",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_gwen:1518245174680096911>"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "smoothName": "Hecarim",
+    "title": "the Shadow of War",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Hecarim.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_hecarim",
+    "emojiId": "1518245176680775700",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_hecarim:1518245176680775700>"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "smoothName": "Heimerdinger",
+    "title": "the Revered Inventor",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Heimerdinger.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_heimerdinger",
+    "emojiId": "1518245178198986883",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_heimerdinger:1518245178198986883>"
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "smoothName": "Hwei",
+    "title": "the Visionary",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Hwei.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_hwei",
+    "emojiId": "1518245179348488342",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_hwei:1518245179348488342>"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "smoothName": "Illaoi",
+    "title": "the Kraken Priestess",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Illaoi.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_illaoi",
+    "emojiId": "1518245180514242710",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_illaoi:1518245180514242710>"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "smoothName": "Irelia",
+    "title": "the Blade Dancer",
+    "role": [
+      "Mid",
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Irelia.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_irelia",
+    "emojiId": "1518245182213066823",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_irelia:1518245182213066823>"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "smoothName": "Ivern",
+    "title": "the Green Father",
+    "role": [
+      "Support",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ivern.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ivern",
+    "emojiId": "1518245183508971660",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ivern:1518245183508971660>"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "smoothName": "Janna",
+    "title": "the Storm's Fury",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Janna.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_janna",
+    "emojiId": "1518245184612077729",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_janna:1518245184612077729>"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "smoothName": "JarvanIV",
+    "title": "the Exemplar of Demacia",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/JarvanIV.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_jarvaniv",
+    "emojiId": "1518245185656459404",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_jarvaniv:1518245185656459404>"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "smoothName": "Jax",
+    "title": "Grandmaster at Arms",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Jax.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_jax",
+    "emojiId": "1518245186839249087",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_jax:1518245186839249087>"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "smoothName": "Jayce",
+    "title": "the Defender of Tomorrow",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Jayce.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_jayce",
+    "emojiId": "1518245187854274814",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_jayce:1518245187854274814>"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "smoothName": "Jhin",
+    "title": "the Virtuoso",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Jhin.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_jhin",
+    "emojiId": "1518245189309829220",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_jhin:1518245189309829220>"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "smoothName": "Jinx",
+    "title": "the Loose Cannon",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Jinx.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_jinx",
+    "emojiId": "1518245190887014450",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_jinx:1518245190887014450>"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "smoothName": "KSante",
+    "title": "the Pride of Nazumah",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/KSante.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ksante",
+    "emojiId": "1518245191520358546",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ksante:1518245191520358546>"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "smoothName": "Kaisa",
+    "title": "Daughter of the Void",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kaisa.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kaisa",
+    "emojiId": "1518245193101606923",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kaisa:1518245193101606923>"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "smoothName": "Kalista",
+    "title": "the Spear of Vengeance",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kalista.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kalista",
+    "emojiId": "1518245193747398808",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kalista:1518245193747398808>"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "smoothName": "Karma",
+    "title": "the Enlightened One",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Karma.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_karma",
+    "emojiId": "1518245195152359474",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_karma:1518245195152359474>"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "smoothName": "Karthus",
+    "title": "the Deathsinger",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Karthus.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_karthus",
+    "emojiId": "1518245196205396029",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_karthus:1518245196205396029>"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "smoothName": "Kassadin",
+    "title": "the Void Walker",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kassadin.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kassadin",
+    "emojiId": "1518245197249773618",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kassadin:1518245197249773618>"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "smoothName": "Katarina",
+    "title": "the Sinister Blade",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Katarina.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_katarina",
+    "emojiId": "1518245198470320339",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_katarina:1518245198470320339>"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "smoothName": "Kayle",
+    "title": "the Righteous",
+    "role": [
+      "Top",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kayle.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kayle",
+    "emojiId": "1518245199510241340",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kayle:1518245199510241340>"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "smoothName": "Kayn",
+    "title": "the Shadow Reaper",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kayn.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kayn",
+    "emojiId": "1518245200529719387",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kayn:1518245200529719387>"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "smoothName": "Kennen",
+    "title": "the Heart of the Tempest",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kennen.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kennen",
+    "emojiId": "1518245201611591870",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kennen:1518245201611591870>"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "smoothName": "Khazix",
+    "title": "the Voidreaver",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Khazix.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_khazix",
+    "emojiId": "1518245202723340500",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_khazix:1518245202723340500>"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "smoothName": "Kindred",
+    "title": "The Eternal Hunters",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kindred.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kindred",
+    "emojiId": "1518245203658412235",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kindred:1518245203658412235>"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "smoothName": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Kled.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kled",
+    "emojiId": "1518245204967166126",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kled:1518245204967166126>"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "smoothName": "KogMaw",
+    "title": "the Mouth of the Abyss",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/KogMaw.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_kogmaw",
+    "emojiId": "1518245206661533853",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_kogmaw:1518245206661533853>"
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "smoothName": "Leblanc",
+    "title": "the Deceiver",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Leblanc.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_leblanc",
+    "emojiId": "1518245207722950779",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_leblanc:1518245207722950779>"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "smoothName": "LeeSin",
+    "title": "the Blind Monk",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/LeeSin.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_leesin",
+    "emojiId": "1518245209455071363",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_leesin:1518245209455071363>"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "smoothName": "Leona",
+    "title": "the Radiant Dawn",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Leona.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_leona",
+    "emojiId": "1518245210696585236",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_leona:1518245210696585236>"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "smoothName": "Lillia",
+    "title": "the Bashful Bloom",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Lillia.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_lillia",
+    "emojiId": "1518245212067991613",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_lillia:1518245212067991613>"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "smoothName": "Lissandra",
+    "title": "the Ice Witch",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Lissandra.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_lissandra",
+    "emojiId": "1518245213603369152",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_lissandra:1518245213603369152>"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "smoothName": "Lucian",
+    "title": "the Purifier",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Lucian.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_lucian",
+    "emojiId": "1518245214840688640",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_lucian:1518245214840688640>"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "smoothName": "Lulu",
+    "title": "the Fae Sorceress",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Lulu.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_lulu",
+    "emojiId": "1518245215968690186",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_lulu:1518245215968690186>"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "smoothName": "Lux",
+    "title": "the Lady of Luminosity",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Lux.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_lux",
+    "emojiId": "1518245216883314819",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_lux:1518245216883314819>"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "smoothName": "Malphite",
+    "title": "Shard of the Monolith",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Malphite.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_malphite",
+    "emojiId": "1518245217827033120",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_malphite:1518245217827033120>"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "smoothName": "Malzahar",
+    "title": "the Prophet of the Void",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Malzahar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_malzahar",
+    "emojiId": "1518245219294904404",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_malzahar:1518245219294904404>"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "smoothName": "Maokai",
+    "title": "the Twisted Treant",
+    "role": [
+      "Support",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Maokai.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_maokai",
+    "emojiId": "1518245220444016640",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_maokai:1518245220444016640>"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "smoothName": "MasterYi",
+    "title": "the Wuju Bladesman",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/MasterYi.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_masteryi",
+    "emojiId": "1518245221534793829",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_masteryi:1518245221534793829>"
+  },
+  {
+    "id": "Mel",
+    "name": "Mel",
+    "smoothName": "Mel",
+    "title": "the Soul's Reflection",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Mel.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_mel",
+    "emojiId": "1518245222721523865",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_mel:1518245222721523865>"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "smoothName": "Milio",
+    "title": "The Gentle Flame",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Milio.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_milio",
+    "emojiId": "1518245223820427295",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_milio:1518245223820427295>"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "smoothName": "MissFortune",
+    "title": "the Bounty Hunter",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/MissFortune.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_missfortune",
+    "emojiId": "1518245225187901510",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_missfortune:1518245225187901510>"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "smoothName": "Mordekaiser",
+    "title": "the Iron Revenant",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Mordekaiser.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_mordekaiser",
+    "emojiId": "1518245226278555759",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_mordekaiser:1518245226278555759>"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "smoothName": "Morgana",
+    "title": "the Fallen",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Morgana.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_morgana",
+    "emojiId": "1518245227352035379",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_morgana:1518245227352035379>"
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "smoothName": "Naafiri",
+    "title": "the Hound of a Hundred Bites",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Naafiri.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_naafiri",
+    "emojiId": "1518245229067505745",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_naafiri:1518245229067505745>"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "smoothName": "Nami",
+    "title": "the Tidecaller",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nami.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nami",
+    "emojiId": "1518245230032191560",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nami:1518245230032191560>"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "smoothName": "Nasus",
+    "title": "the Curator of the Sands",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nasus.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nasus",
+    "emojiId": "1518245231194149027",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nasus:1518245231194149027>"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "smoothName": "Nautilus",
+    "title": "the Titan of the Depths",
+    "role": [
+      "Support",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nautilus.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nautilus",
+    "emojiId": "1518245232246788258",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nautilus:1518245232246788258>"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "smoothName": "Neeko",
+    "title": "the Curious Chameleon",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Neeko.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_neeko",
+    "emojiId": "1518245233656205322",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_neeko:1518245233656205322>"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "smoothName": "Nidalee",
+    "title": "the Bestial Huntress",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nidalee.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nidalee",
+    "emojiId": "1518245234973081671",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nidalee:1518245234973081671>"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "smoothName": "Nilah",
+    "title": "the Joy Unbound",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nilah.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nilah",
+    "emojiId": "1518245236109742151",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nilah:1518245236109742151>"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "smoothName": "Nocturne",
+    "title": "the Eternal Nightmare",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nocturne.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nocturne",
+    "emojiId": "1518245237196062873",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nocturne:1518245237196062873>"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu & Willump",
+    "smoothName": "Nunu",
+    "title": "the Boy and His Yeti",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Nunu.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_nunu",
+    "emojiId": "1518245245786001410",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_nunu:1518245245786001410>"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "smoothName": "Olaf",
+    "title": "the Berserker",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Olaf.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_olaf",
+    "emojiId": "1518245247333830769",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_olaf:1518245247333830769>"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "smoothName": "Orianna",
+    "title": "the Lady of Clockwork",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Orianna.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_orianna",
+    "emojiId": "1518245248931725454",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_orianna:1518245248931725454>"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "smoothName": "Ornn",
+    "title": "The Fire below the Mountain",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ornn.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ornn",
+    "emojiId": "1518245250127368284",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ornn:1518245250127368284>"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "smoothName": "Pantheon",
+    "title": "the Unbreakable Spear",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Pantheon.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_pantheon",
+    "emojiId": "1518245251452637265",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_pantheon:1518245251452637265>"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "smoothName": "Poppy",
+    "title": "Keeper of the Hammer",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Poppy.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_poppy",
+    "emojiId": "1518245252715253880",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_poppy:1518245252715253880>"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "smoothName": "Pyke",
+    "title": "the Bloodharbor Ripper",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Pyke.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_pyke",
+    "emojiId": "1518245254241845439",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_pyke:1518245254241845439>"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "smoothName": "Qiyana",
+    "title": "Empress of the Elements",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Qiyana.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_qiyana",
+    "emojiId": "1518245255391215666",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_qiyana:1518245255391215666>"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "smoothName": "Quinn",
+    "title": "Demacia's Wings",
+    "role": [
+      "Adc",
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Quinn.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_quinn",
+    "emojiId": "1518245256699838535",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_quinn:1518245256699838535>"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "smoothName": "Rakan",
+    "title": "The Charmer",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Rakan.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_rakan",
+    "emojiId": "1518245257957998632",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_rakan:1518245257957998632>"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "smoothName": "Rammus",
+    "title": "the Armordillo",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Rammus.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_rammus",
+    "emojiId": "1518245258906042519",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_rammus:1518245258906042519>"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "smoothName": "RekSai",
+    "title": "the Void Burrower",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/RekSai.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_reksai",
+    "emojiId": "1518245260197757078",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_reksai:1518245260197757078>"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "smoothName": "Rell",
+    "title": "the Iron Maiden",
+    "role": [
+      "Support",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Rell.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_rell",
+    "emojiId": "1518245261095338097",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_rell:1518245261095338097>"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "smoothName": "Renata",
+    "title": "the Chem-Baroness",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Renata.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_renata",
+    "emojiId": "1518245262362021999",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_renata:1518245262362021999>"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "smoothName": "Renekton",
+    "title": "the Butcher of the Sands",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Renekton.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_renekton",
+    "emojiId": "1518245263603404853",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_renekton:1518245263603404853>"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "smoothName": "Rengar",
+    "title": "the Pridestalker",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Rengar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_rengar",
+    "emojiId": "1518245265960865812",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_rengar:1518245265960865812>"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "smoothName": "Riven",
+    "title": "the Exile",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Riven.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_riven",
+    "emojiId": "1518245267760087070",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_riven:1518245267760087070>"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "smoothName": "Rumble",
+    "title": "the Mechanized Menace",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Rumble.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_rumble",
+    "emojiId": "1518245268821246052",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_rumble:1518245268821246052>"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "smoothName": "Ryze",
+    "title": "the Rune Mage",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ryze.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ryze",
+    "emojiId": "1518245270196846673",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ryze:1518245270196846673>"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "smoothName": "Samira",
+    "title": "the Desert Rose",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Samira.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_samira",
+    "emojiId": "1518245271316861170",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_samira:1518245271316861170>"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "smoothName": "Sejuani",
+    "title": "Fury of the North",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sejuani.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sejuani",
+    "emojiId": "1518245272608706675",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sejuani:1518245272608706675>"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "smoothName": "Senna",
+    "title": "the Redeemer",
+    "role": [
+      "Adc",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Senna.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_senna",
+    "emojiId": "1518245273632116861",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_senna:1518245273632116861>"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "smoothName": "Seraphine",
+    "title": "the Starry-Eyed Songstress",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Seraphine.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_seraphine",
+    "emojiId": "1518245275112702003",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_seraphine:1518245275112702003>"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "smoothName": "Sett",
+    "title": "the Boss",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sett.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sett",
+    "emojiId": "1518245276165341295",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sett:1518245276165341295>"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "smoothName": "Shaco",
+    "title": "the Demon Jester",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Shaco.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_shaco",
+    "emojiId": "1518245277406986261",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_shaco:1518245277406986261>"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "smoothName": "Shen",
+    "title": "the Eye of Twilight",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Shen.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_shen",
+    "emojiId": "1518245278430527640",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_shen:1518245278430527640>"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "smoothName": "Shyvana",
+    "title": "the Half-Dragon",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Shyvana.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_shyvana",
+    "emojiId": "1518245279822778458",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_shyvana:1518245279822778458>"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "smoothName": "Singed",
+    "title": "the Mad Chemist",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Singed.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_singed",
+    "emojiId": "1518245281026543791",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_singed:1518245281026543791>"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "smoothName": "Sion",
+    "title": "The Undead Juggernaut",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sion.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sion",
+    "emojiId": "1518245282154811422",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sion:1518245282154811422>"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "smoothName": "Sivir",
+    "title": "the Battle Mistress",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sivir.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sivir",
+    "emojiId": "1518245283169833061",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sivir:1518245283169833061>"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "smoothName": "Skarner",
+    "title": "the Primordial Sovereign",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Skarner.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_skarner",
+    "emojiId": "1518245284373856419",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_skarner:1518245284373856419>"
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "smoothName": "Smolder",
+    "title": "the Fiery Fledgling",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Smolder.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_smolder",
+    "emojiId": "1518245285766238299",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_smolder:1518245285766238299>"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "smoothName": "Sona",
+    "title": "Maven of the Strings",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sona.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sona",
+    "emojiId": "1518245286911152260",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sona:1518245286911152260>"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "smoothName": "Soraka",
+    "title": "the Starchild",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Soraka.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_soraka",
+    "emojiId": "1518245288026832926",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_soraka:1518245288026832926>"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "smoothName": "Swain",
+    "title": "the Noxian Grand General",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Swain.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_swain",
+    "emojiId": "1518245288966619332",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_swain:1518245288966619332>"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "smoothName": "Sylas",
+    "title": "the Unshackled",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Sylas.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_sylas",
+    "emojiId": "1518245290623373512",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_sylas:1518245290623373512>"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "smoothName": "Syndra",
+    "title": "the Dark Sovereign",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Syndra.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_syndra",
+    "emojiId": "1518245292011421876",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_syndra:1518245292011421876>"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "smoothName": "TahmKench",
+    "title": "The River King",
+    "role": [
+      "Support",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/TahmKench.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_tahmkench",
+    "emojiId": "1518245293030641695",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_tahmkench:1518245293030641695>"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "smoothName": "Taliyah",
+    "title": "the Stoneweaver",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Taliyah.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_taliyah",
+    "emojiId": "1518245294444384296",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_taliyah:1518245294444384296>"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "smoothName": "Talon",
+    "title": "the Blade's Shadow",
+    "role": [
+      "Mid",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Talon.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_talon",
+    "emojiId": "1518245295450750976",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_talon:1518245295450750976>"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "smoothName": "Taric",
+    "title": "the Shield of Valoran",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Taric.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_taric",
+    "emojiId": "1518245296822288494",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_taric:1518245296822288494>"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "smoothName": "Teemo",
+    "title": "the Swift Scout",
+    "role": [
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Teemo.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_teemo",
+    "emojiId": "1518245297933910036",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_teemo:1518245297933910036>"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "smoothName": "Thresh",
+    "title": "the Chain Warden",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Thresh.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_thresh",
+    "emojiId": "1518245299037012028",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_thresh:1518245299037012028>"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "smoothName": "Tristana",
+    "title": "the Yordle Gunner",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Tristana.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_tristana",
+    "emojiId": "1518245300270010398",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_tristana:1518245300270010398>"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "smoothName": "Trundle",
+    "title": "the Troll King",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Trundle.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_trundle",
+    "emojiId": "1518245301343883444",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_trundle:1518245301343883444>"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "smoothName": "Tryndamere",
+    "title": "the Barbarian King",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Tryndamere.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_tryndamere",
+    "emojiId": "1518245302384197833",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_tryndamere:1518245302384197833>"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "smoothName": "TwistedFate",
+    "title": "the Card Master",
+    "role": [
+      "Adc",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/TwistedFate.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_twistedfate",
+    "emojiId": "1518245303436705822",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_twistedfate:1518245303436705822>"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "smoothName": "Twitch",
+    "title": "the Plague Rat",
+    "role": [
+      "Adc",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Twitch.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_twitch",
+    "emojiId": "1518245304506519700",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_twitch:1518245304506519700>"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "smoothName": "Udyr",
+    "title": "the Spirit Walker",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Udyr.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_udyr",
+    "emojiId": "1518245305819201647",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_udyr:1518245305819201647>"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "smoothName": "Urgot",
+    "title": "the Dreadnought",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Urgot.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_urgot",
+    "emojiId": "1518245306787954832",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_urgot:1518245306787954832>"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "smoothName": "Varus",
+    "title": "the Arrow of Retribution",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Varus.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_varus",
+    "emojiId": "1518245308214280302",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_varus:1518245308214280302>"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "smoothName": "Vayne",
+    "title": "the Night Hunter",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Vayne.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_vayne",
+    "emojiId": "1518245309254209648",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_vayne:1518245309254209648>"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "smoothName": "Veigar",
+    "title": "the Tiny Master of Evil",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Veigar.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_veigar",
+    "emojiId": "1518245310395322398",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_veigar:1518245310395322398>"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "smoothName": "Velkoz",
+    "title": "the Eye of the Void",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Velkoz.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_velkoz",
+    "emojiId": "1518245311322128596",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_velkoz:1518245311322128596>"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "smoothName": "Vex",
+    "title": "the Gloomist",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Vex.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_vex",
+    "emojiId": "1518245312500863158",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_vex:1518245312500863158>"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "smoothName": "Vi",
+    "title": "the Piltover Enforcer",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Vi.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_vi",
+    "emojiId": "1518245314006487100",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_vi:1518245314006487100>"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "smoothName": "Viego",
+    "title": "The Ruined King",
+    "role": [
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Viego.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_viego",
+    "emojiId": "1518245315986194602",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_viego:1518245315986194602>"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "smoothName": "Viktor",
+    "title": "the Herald of the Arcane",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Viktor.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_viktor",
+    "emojiId": "1518245317097685072",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_viktor:1518245317097685072>"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "smoothName": "Vladimir",
+    "title": "the Crimson Reaper",
+    "role": [
+      "Mid",
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Vladimir.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_vladimir",
+    "emojiId": "1518245317873635330",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_vladimir:1518245317873635330>"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "smoothName": "Volibear",
+    "title": "the Relentless Storm",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Volibear.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_volibear",
+    "emojiId": "1518245319165608007",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_volibear:1518245319165608007>"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "smoothName": "Warwick",
+    "title": "the Uncaged Wrath of Zaun",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Warwick.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_warwick",
+    "emojiId": "1518245320507527348",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_warwick:1518245320507527348>"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "smoothName": "MonkeyKing",
+    "title": "the Monkey King",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/MonkeyKing.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_monkeyking",
+    "emojiId": "1518245321283469343",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_monkeyking:1518245321283469343>"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "smoothName": "Xayah",
+    "title": "the Rebel",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Xayah.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_xayah",
+    "emojiId": "1518245322638360681",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_xayah:1518245322638360681>"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "smoothName": "Xerath",
+    "title": "the Magus Ascendant",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Xerath.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_xerath",
+    "emojiId": "1518245324878250136",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_xerath:1518245324878250136>"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "smoothName": "XinZhao",
+    "title": "the Seneschal of Demacia",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/XinZhao.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_xinzhao",
+    "emojiId": "1518245327214481519",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_xinzhao:1518245327214481519>"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "smoothName": "Yasuo",
+    "title": "the Unforgiven",
+    "role": [
+      "Mid",
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Yasuo.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_yasuo",
+    "emojiId": "1518245329554771968",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_yasuo:1518245329554771968>"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "smoothName": "Yone",
+    "title": "the Unforgotten",
+    "role": [
+      "Mid",
+      "Top"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Yone.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_yone",
+    "emojiId": "1518245331593199686",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_yone:1518245331593199686>"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "smoothName": "Yorick",
+    "title": "Shepherd of Souls",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Yorick.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_yorick",
+    "emojiId": "1518245333426110665",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_yorick:1518245333426110665>"
+  },
+  {
+    "id": "Yunara",
+    "name": "Yunara",
+    "smoothName": "Yunara",
+    "title": "the Unbroken Faith",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Yunara.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_yunara",
+    "emojiId": "1518245335258894547",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_yunara:1518245335258894547>"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "smoothName": "Yuumi",
+    "title": "the Magical Cat",
+    "role": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Yuumi.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_yuumi",
+    "emojiId": "1518245337242796043",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_yuumi:1518245337242796043>"
+  },
+  {
+    "id": "Zaahen",
+    "name": "Zaahen",
+    "smoothName": "Zaahen",
+    "title": "The Unsundered",
+    "role": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zaahen.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zaahen",
+    "emojiId": "1518245339306659932",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zaahen:1518245339306659932>"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "smoothName": "Zac",
+    "title": "the Secret Weapon",
+    "role": [
+      "Top",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zac.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zac",
+    "emojiId": "1518245341378379916",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zac:1518245341378379916>"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "smoothName": "Zed",
+    "title": "the Master of Shadows",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zed.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zed",
+    "emojiId": "1518245343307759728",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zed:1518245343307759728>"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "smoothName": "Zeri",
+    "title": "The Spark of Zaun",
+    "role": [
+      "Adc"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zeri.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zeri",
+    "emojiId": "1518245345337937980",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zeri:1518245345337937980>"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "smoothName": "Ziggs",
+    "title": "the Hexplosives Expert",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Ziggs.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_ziggs",
+    "emojiId": "1518245347493679164",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_ziggs:1518245347493679164>"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "smoothName": "Zilean",
+    "title": "the Chronokeeper",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zilean.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zilean",
+    "emojiId": "1518245349561733210",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zilean:1518245349561733210>"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "smoothName": "Zoe",
+    "title": "the Aspect of Twilight",
+    "role": [
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zoe.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zoe",
+    "emojiId": "1518245351629525112",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zoe:1518245351629525112>"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "smoothName": "Zyra",
+    "title": "Rise of the Thorns",
+    "role": [
+      "Support",
+      "Mid"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/Zyra.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
+    "version": "16.12.1",
+    "emojiName": "ch_zyra",
+    "emojiId": "1518245354364080289",
+    "wins": 0,
+    "losses": 0,
+    "emoji": "<:ch_zyra:1518245354364080289>"
+  }
+]

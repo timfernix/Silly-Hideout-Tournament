@@ -1,0 +1,1034 @@
+{
+  "Aatrox": {
+    "id": "1518245124730257508",
+    "name": "ch_aatrox",
+    "mention": "<:ch_aatrox:1518245124730257508>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Ahri": {
+    "id": "1518245125938090134",
+    "name": "ch_ahri",
+    "mention": "<:ch_ahri:1518245125938090134>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Akali": {
+    "id": "1518245126990725130",
+    "name": "ch_akali",
+    "mention": "<:ch_akali:1518245126990725130>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Akshan": {
+    "id": "1518245128869773436",
+    "name": "ch_akshan",
+    "mention": "<:ch_akshan:1518245128869773436>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Alistar": {
+    "id": "1518245130006429768",
+    "name": "ch_alistar",
+    "mention": "<:ch_alistar:1518245130006429768>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Ambessa": {
+    "id": "1518245131235622922",
+    "name": "ch_ambessa",
+    "mention": "<:ch_ambessa:1518245131235622922>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Amumu": {
+    "id": "1518245132456165566",
+    "name": "ch_amumu",
+    "mention": "<:ch_amumu:1518245132456165566>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Anivia": {
+    "id": "1518245133643157554",
+    "name": "ch_anivia",
+    "mention": "<:ch_anivia:1518245133643157554>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Annie": {
+    "id": "1518245134796329010",
+    "name": "ch_annie",
+    "mention": "<:ch_annie:1518245134796329010>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Aphelios": {
+    "id": "1518245135920398416",
+    "name": "ch_aphelios",
+    "mention": "<:ch_aphelios:1518245135920398416>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Ashe": {
+    "id": "1518245136952201299",
+    "name": "ch_ashe",
+    "mention": "<:ch_ashe:1518245136952201299>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "AurelionSol": {
+    "id": "1518245138151772242",
+    "name": "ch_aurelionsol",
+    "mention": "<:ch_aurelionsol:1518245138151772242>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Aurora": {
+    "id": "1518245139364188240",
+    "name": "ch_aurora",
+    "mention": "<:ch_aurora:1518245139364188240>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Azir": {
+    "id": "1518245140328743013",
+    "name": "ch_azir",
+    "mention": "<:ch_azir:1518245140328743013>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Bard": {
+    "id": "1518245141419393125",
+    "name": "ch_bard",
+    "mention": "<:ch_bard:1518245141419393125>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Belveth": {
+    "id": "1518245142635483156",
+    "name": "ch_belveth",
+    "mention": "<:ch_belveth:1518245142635483156>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Blitzcrank": {
+    "id": "1518245143415750757",
+    "name": "ch_blitzcrank",
+    "mention": "<:ch_blitzcrank:1518245143415750757>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Brand": {
+    "id": "1518245144959389746",
+    "name": "ch_brand",
+    "mention": "<:ch_brand:1518245144959389746>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Braum": {
+    "id": "1518245145953439959",
+    "name": "ch_braum",
+    "mention": "<:ch_braum:1518245145953439959>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Briar": {
+    "id": "1518245147572179145",
+    "name": "ch_briar",
+    "mention": "<:ch_briar:1518245147572179145>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Caitlyn": {
+    "id": "1518245148633600103",
+    "name": "ch_caitlyn",
+    "mention": "<:ch_caitlyn:1518245148633600103>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Camille": {
+    "id": "1518245149908406272",
+    "name": "ch_camille",
+    "mention": "<:ch_camille:1518245149908406272>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Cassiopeia": {
+    "id": "1518245151217287168",
+    "name": "ch_cassiopeia",
+    "mention": "<:ch_cassiopeia:1518245151217287168>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Chogath": {
+    "id": "1518245152139772135",
+    "name": "ch_chogath",
+    "mention": "<:ch_chogath:1518245152139772135>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Corki": {
+    "id": "1518245153381421086",
+    "name": "ch_corki",
+    "mention": "<:ch_corki:1518245153381421086>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Darius": {
+    "id": "1518245154623066263",
+    "name": "ch_darius",
+    "mention": "<:ch_darius:1518245154623066263>",
+    "updatedAt": "2026-06-21T13:48:27.580Z"
+  },
+  "Diana": {
+    "id": "1518245155709124731",
+    "name": "ch_diana",
+    "mention": "<:ch_diana:1518245155709124731>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "DrMundo": {
+    "id": "1518245156908695572",
+    "name": "ch_drmundo",
+    "mention": "<:ch_drmundo:1518245156908695572>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Draven": {
+    "id": "1518245157907070998",
+    "name": "ch_draven",
+    "mention": "<:ch_draven:1518245157907070998>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Ekko": {
+    "id": "1518245158846599219",
+    "name": "ch_ekko",
+    "mention": "<:ch_ekko:1518245158846599219>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Elise": {
+    "id": "1518245160264142888",
+    "name": "ch_elise",
+    "mention": "<:ch_elise:1518245160264142888>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Evelynn": {
+    "id": "1518245161619165225",
+    "name": "ch_evelynn",
+    "mention": "<:ch_evelynn:1518245161619165225>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Ezreal": {
+    "id": "1518245162814410824",
+    "name": "ch_ezreal",
+    "mention": "<:ch_ezreal:1518245162814410824>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Fiddlesticks": {
+    "id": "1518245163867050057",
+    "name": "ch_fiddlesticks",
+    "mention": "<:ch_fiddlesticks:1518245163867050057>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Fiora": {
+    "id": "1518245165226000415",
+    "name": "ch_fiora",
+    "mention": "<:ch_fiora:1518245165226000415>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Fizz": {
+    "id": "1518245166232633396",
+    "name": "ch_fizz",
+    "mention": "<:ch_fizz:1518245166232633396>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Galio": {
+    "id": "1518245167700906085",
+    "name": "ch_galio",
+    "mention": "<:ch_galio:1518245167700906085>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Gangplank": {
+    "id": "1518245168749482064",
+    "name": "ch_gangplank",
+    "mention": "<:ch_gangplank:1518245168749482064>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Garen": {
+    "id": "1518245170313691307",
+    "name": "ch_garen",
+    "mention": "<:ch_garen:1518245170313691307>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Gnar": {
+    "id": "1518245171685228614",
+    "name": "ch_gnar",
+    "mention": "<:ch_gnar:1518245171685228614>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Gragas": {
+    "id": "1518245172696191068",
+    "name": "ch_gragas",
+    "mention": "<:ch_gragas:1518245172696191068>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Graves": {
+    "id": "1518245174000615424",
+    "name": "ch_graves",
+    "mention": "<:ch_graves:1518245174000615424>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Gwen": {
+    "id": "1518245174680096911",
+    "name": "ch_gwen",
+    "mention": "<:ch_gwen:1518245174680096911>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Hecarim": {
+    "id": "1518245176680775700",
+    "name": "ch_hecarim",
+    "mention": "<:ch_hecarim:1518245176680775700>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Heimerdinger": {
+    "id": "1518245178198986883",
+    "name": "ch_heimerdinger",
+    "mention": "<:ch_heimerdinger:1518245178198986883>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Hwei": {
+    "id": "1518245179348488342",
+    "name": "ch_hwei",
+    "mention": "<:ch_hwei:1518245179348488342>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Illaoi": {
+    "id": "1518245180514242710",
+    "name": "ch_illaoi",
+    "mention": "<:ch_illaoi:1518245180514242710>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Irelia": {
+    "id": "1518245182213066823",
+    "name": "ch_irelia",
+    "mention": "<:ch_irelia:1518245182213066823>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Ivern": {
+    "id": "1518245183508971660",
+    "name": "ch_ivern",
+    "mention": "<:ch_ivern:1518245183508971660>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Janna": {
+    "id": "1518245184612077729",
+    "name": "ch_janna",
+    "mention": "<:ch_janna:1518245184612077729>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "JarvanIV": {
+    "id": "1518245185656459404",
+    "name": "ch_jarvaniv",
+    "mention": "<:ch_jarvaniv:1518245185656459404>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Jax": {
+    "id": "1518245186839249087",
+    "name": "ch_jax",
+    "mention": "<:ch_jax:1518245186839249087>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Jayce": {
+    "id": "1518245187854274814",
+    "name": "ch_jayce",
+    "mention": "<:ch_jayce:1518245187854274814>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Jhin": {
+    "id": "1518245189309829220",
+    "name": "ch_jhin",
+    "mention": "<:ch_jhin:1518245189309829220>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Jinx": {
+    "id": "1518245190887014450",
+    "name": "ch_jinx",
+    "mention": "<:ch_jinx:1518245190887014450>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "KSante": {
+    "id": "1518245191520358546",
+    "name": "ch_ksante",
+    "mention": "<:ch_ksante:1518245191520358546>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kaisa": {
+    "id": "1518245193101606923",
+    "name": "ch_kaisa",
+    "mention": "<:ch_kaisa:1518245193101606923>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kalista": {
+    "id": "1518245193747398808",
+    "name": "ch_kalista",
+    "mention": "<:ch_kalista:1518245193747398808>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Karma": {
+    "id": "1518245195152359474",
+    "name": "ch_karma",
+    "mention": "<:ch_karma:1518245195152359474>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Karthus": {
+    "id": "1518245196205396029",
+    "name": "ch_karthus",
+    "mention": "<:ch_karthus:1518245196205396029>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kassadin": {
+    "id": "1518245197249773618",
+    "name": "ch_kassadin",
+    "mention": "<:ch_kassadin:1518245197249773618>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Katarina": {
+    "id": "1518245198470320339",
+    "name": "ch_katarina",
+    "mention": "<:ch_katarina:1518245198470320339>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kayle": {
+    "id": "1518245199510241340",
+    "name": "ch_kayle",
+    "mention": "<:ch_kayle:1518245199510241340>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kayn": {
+    "id": "1518245200529719387",
+    "name": "ch_kayn",
+    "mention": "<:ch_kayn:1518245200529719387>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kennen": {
+    "id": "1518245201611591870",
+    "name": "ch_kennen",
+    "mention": "<:ch_kennen:1518245201611591870>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Khazix": {
+    "id": "1518245202723340500",
+    "name": "ch_khazix",
+    "mention": "<:ch_khazix:1518245202723340500>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kindred": {
+    "id": "1518245203658412235",
+    "name": "ch_kindred",
+    "mention": "<:ch_kindred:1518245203658412235>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Kled": {
+    "id": "1518245204967166126",
+    "name": "ch_kled",
+    "mention": "<:ch_kled:1518245204967166126>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "KogMaw": {
+    "id": "1518245206661533853",
+    "name": "ch_kogmaw",
+    "mention": "<:ch_kogmaw:1518245206661533853>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Leblanc": {
+    "id": "1518245207722950779",
+    "name": "ch_leblanc",
+    "mention": "<:ch_leblanc:1518245207722950779>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "LeeSin": {
+    "id": "1518245209455071363",
+    "name": "ch_leesin",
+    "mention": "<:ch_leesin:1518245209455071363>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Leona": {
+    "id": "1518245210696585236",
+    "name": "ch_leona",
+    "mention": "<:ch_leona:1518245210696585236>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Lillia": {
+    "id": "1518245212067991613",
+    "name": "ch_lillia",
+    "mention": "<:ch_lillia:1518245212067991613>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Lissandra": {
+    "id": "1518245213603369152",
+    "name": "ch_lissandra",
+    "mention": "<:ch_lissandra:1518245213603369152>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Lucian": {
+    "id": "1518245214840688640",
+    "name": "ch_lucian",
+    "mention": "<:ch_lucian:1518245214840688640>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Lulu": {
+    "id": "1518245215968690186",
+    "name": "ch_lulu",
+    "mention": "<:ch_lulu:1518245215968690186>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Lux": {
+    "id": "1518245216883314819",
+    "name": "ch_lux",
+    "mention": "<:ch_lux:1518245216883314819>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Malphite": {
+    "id": "1518245217827033120",
+    "name": "ch_malphite",
+    "mention": "<:ch_malphite:1518245217827033120>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Malzahar": {
+    "id": "1518245219294904404",
+    "name": "ch_malzahar",
+    "mention": "<:ch_malzahar:1518245219294904404>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Maokai": {
+    "id": "1518245220444016640",
+    "name": "ch_maokai",
+    "mention": "<:ch_maokai:1518245220444016640>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "MasterYi": {
+    "id": "1518245221534793829",
+    "name": "ch_masteryi",
+    "mention": "<:ch_masteryi:1518245221534793829>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Mel": {
+    "id": "1518245222721523865",
+    "name": "ch_mel",
+    "mention": "<:ch_mel:1518245222721523865>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Milio": {
+    "id": "1518245223820427295",
+    "name": "ch_milio",
+    "mention": "<:ch_milio:1518245223820427295>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "MissFortune": {
+    "id": "1518245225187901510",
+    "name": "ch_missfortune",
+    "mention": "<:ch_missfortune:1518245225187901510>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Mordekaiser": {
+    "id": "1518245226278555759",
+    "name": "ch_mordekaiser",
+    "mention": "<:ch_mordekaiser:1518245226278555759>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Morgana": {
+    "id": "1518245227352035379",
+    "name": "ch_morgana",
+    "mention": "<:ch_morgana:1518245227352035379>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Naafiri": {
+    "id": "1518245229067505745",
+    "name": "ch_naafiri",
+    "mention": "<:ch_naafiri:1518245229067505745>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nami": {
+    "id": "1518245230032191560",
+    "name": "ch_nami",
+    "mention": "<:ch_nami:1518245230032191560>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nasus": {
+    "id": "1518245231194149027",
+    "name": "ch_nasus",
+    "mention": "<:ch_nasus:1518245231194149027>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nautilus": {
+    "id": "1518245232246788258",
+    "name": "ch_nautilus",
+    "mention": "<:ch_nautilus:1518245232246788258>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Neeko": {
+    "id": "1518245233656205322",
+    "name": "ch_neeko",
+    "mention": "<:ch_neeko:1518245233656205322>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nidalee": {
+    "id": "1518245234973081671",
+    "name": "ch_nidalee",
+    "mention": "<:ch_nidalee:1518245234973081671>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nilah": {
+    "id": "1518245236109742151",
+    "name": "ch_nilah",
+    "mention": "<:ch_nilah:1518245236109742151>",
+    "updatedAt": "2026-06-21T13:48:27.581Z"
+  },
+  "Nocturne": {
+    "id": "1518245237196062873",
+    "name": "ch_nocturne",
+    "mention": "<:ch_nocturne:1518245237196062873>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Nunu": {
+    "id": "1518245245786001410",
+    "name": "ch_nunu",
+    "mention": "<:ch_nunu:1518245245786001410>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Olaf": {
+    "id": "1518245247333830769",
+    "name": "ch_olaf",
+    "mention": "<:ch_olaf:1518245247333830769>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Orianna": {
+    "id": "1518245248931725454",
+    "name": "ch_orianna",
+    "mention": "<:ch_orianna:1518245248931725454>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Ornn": {
+    "id": "1518245250127368284",
+    "name": "ch_ornn",
+    "mention": "<:ch_ornn:1518245250127368284>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Pantheon": {
+    "id": "1518245251452637265",
+    "name": "ch_pantheon",
+    "mention": "<:ch_pantheon:1518245251452637265>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Poppy": {
+    "id": "1518245252715253880",
+    "name": "ch_poppy",
+    "mention": "<:ch_poppy:1518245252715253880>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Pyke": {
+    "id": "1518245254241845439",
+    "name": "ch_pyke",
+    "mention": "<:ch_pyke:1518245254241845439>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Qiyana": {
+    "id": "1518245255391215666",
+    "name": "ch_qiyana",
+    "mention": "<:ch_qiyana:1518245255391215666>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Quinn": {
+    "id": "1518245256699838535",
+    "name": "ch_quinn",
+    "mention": "<:ch_quinn:1518245256699838535>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Rakan": {
+    "id": "1518245257957998632",
+    "name": "ch_rakan",
+    "mention": "<:ch_rakan:1518245257957998632>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Rammus": {
+    "id": "1518245258906042519",
+    "name": "ch_rammus",
+    "mention": "<:ch_rammus:1518245258906042519>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "RekSai": {
+    "id": "1518245260197757078",
+    "name": "ch_reksai",
+    "mention": "<:ch_reksai:1518245260197757078>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Rell": {
+    "id": "1518245261095338097",
+    "name": "ch_rell",
+    "mention": "<:ch_rell:1518245261095338097>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Renata": {
+    "id": "1518245262362021999",
+    "name": "ch_renata",
+    "mention": "<:ch_renata:1518245262362021999>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Renekton": {
+    "id": "1518245263603404853",
+    "name": "ch_renekton",
+    "mention": "<:ch_renekton:1518245263603404853>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Rengar": {
+    "id": "1518245265960865812",
+    "name": "ch_rengar",
+    "mention": "<:ch_rengar:1518245265960865812>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Riven": {
+    "id": "1518245267760087070",
+    "name": "ch_riven",
+    "mention": "<:ch_riven:1518245267760087070>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Rumble": {
+    "id": "1518245268821246052",
+    "name": "ch_rumble",
+    "mention": "<:ch_rumble:1518245268821246052>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Ryze": {
+    "id": "1518245270196846673",
+    "name": "ch_ryze",
+    "mention": "<:ch_ryze:1518245270196846673>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Samira": {
+    "id": "1518245271316861170",
+    "name": "ch_samira",
+    "mention": "<:ch_samira:1518245271316861170>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sejuani": {
+    "id": "1518245272608706675",
+    "name": "ch_sejuani",
+    "mention": "<:ch_sejuani:1518245272608706675>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Senna": {
+    "id": "1518245273632116861",
+    "name": "ch_senna",
+    "mention": "<:ch_senna:1518245273632116861>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Seraphine": {
+    "id": "1518245275112702003",
+    "name": "ch_seraphine",
+    "mention": "<:ch_seraphine:1518245275112702003>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sett": {
+    "id": "1518245276165341295",
+    "name": "ch_sett",
+    "mention": "<:ch_sett:1518245276165341295>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Shaco": {
+    "id": "1518245277406986261",
+    "name": "ch_shaco",
+    "mention": "<:ch_shaco:1518245277406986261>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Shen": {
+    "id": "1518245278430527640",
+    "name": "ch_shen",
+    "mention": "<:ch_shen:1518245278430527640>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Shyvana": {
+    "id": "1518245279822778458",
+    "name": "ch_shyvana",
+    "mention": "<:ch_shyvana:1518245279822778458>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Singed": {
+    "id": "1518245281026543791",
+    "name": "ch_singed",
+    "mention": "<:ch_singed:1518245281026543791>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sion": {
+    "id": "1518245282154811422",
+    "name": "ch_sion",
+    "mention": "<:ch_sion:1518245282154811422>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sivir": {
+    "id": "1518245283169833061",
+    "name": "ch_sivir",
+    "mention": "<:ch_sivir:1518245283169833061>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Skarner": {
+    "id": "1518245284373856419",
+    "name": "ch_skarner",
+    "mention": "<:ch_skarner:1518245284373856419>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Smolder": {
+    "id": "1518245285766238299",
+    "name": "ch_smolder",
+    "mention": "<:ch_smolder:1518245285766238299>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sona": {
+    "id": "1518245286911152260",
+    "name": "ch_sona",
+    "mention": "<:ch_sona:1518245286911152260>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Soraka": {
+    "id": "1518245288026832926",
+    "name": "ch_soraka",
+    "mention": "<:ch_soraka:1518245288026832926>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Swain": {
+    "id": "1518245288966619332",
+    "name": "ch_swain",
+    "mention": "<:ch_swain:1518245288966619332>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Sylas": {
+    "id": "1518245290623373512",
+    "name": "ch_sylas",
+    "mention": "<:ch_sylas:1518245290623373512>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Syndra": {
+    "id": "1518245292011421876",
+    "name": "ch_syndra",
+    "mention": "<:ch_syndra:1518245292011421876>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "TahmKench": {
+    "id": "1518245293030641695",
+    "name": "ch_tahmkench",
+    "mention": "<:ch_tahmkench:1518245293030641695>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Taliyah": {
+    "id": "1518245294444384296",
+    "name": "ch_taliyah",
+    "mention": "<:ch_taliyah:1518245294444384296>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Talon": {
+    "id": "1518245295450750976",
+    "name": "ch_talon",
+    "mention": "<:ch_talon:1518245295450750976>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Taric": {
+    "id": "1518245296822288494",
+    "name": "ch_taric",
+    "mention": "<:ch_taric:1518245296822288494>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Teemo": {
+    "id": "1518245297933910036",
+    "name": "ch_teemo",
+    "mention": "<:ch_teemo:1518245297933910036>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Thresh": {
+    "id": "1518245299037012028",
+    "name": "ch_thresh",
+    "mention": "<:ch_thresh:1518245299037012028>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Tristana": {
+    "id": "1518245300270010398",
+    "name": "ch_tristana",
+    "mention": "<:ch_tristana:1518245300270010398>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Trundle": {
+    "id": "1518245301343883444",
+    "name": "ch_trundle",
+    "mention": "<:ch_trundle:1518245301343883444>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Tryndamere": {
+    "id": "1518245302384197833",
+    "name": "ch_tryndamere",
+    "mention": "<:ch_tryndamere:1518245302384197833>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "TwistedFate": {
+    "id": "1518245303436705822",
+    "name": "ch_twistedfate",
+    "mention": "<:ch_twistedfate:1518245303436705822>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Twitch": {
+    "id": "1518245304506519700",
+    "name": "ch_twitch",
+    "mention": "<:ch_twitch:1518245304506519700>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Udyr": {
+    "id": "1518245305819201647",
+    "name": "ch_udyr",
+    "mention": "<:ch_udyr:1518245305819201647>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Urgot": {
+    "id": "1518245306787954832",
+    "name": "ch_urgot",
+    "mention": "<:ch_urgot:1518245306787954832>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Varus": {
+    "id": "1518245308214280302",
+    "name": "ch_varus",
+    "mention": "<:ch_varus:1518245308214280302>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Vayne": {
+    "id": "1518245309254209648",
+    "name": "ch_vayne",
+    "mention": "<:ch_vayne:1518245309254209648>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Veigar": {
+    "id": "1518245310395322398",
+    "name": "ch_veigar",
+    "mention": "<:ch_veigar:1518245310395322398>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Velkoz": {
+    "id": "1518245311322128596",
+    "name": "ch_velkoz",
+    "mention": "<:ch_velkoz:1518245311322128596>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Vex": {
+    "id": "1518245312500863158",
+    "name": "ch_vex",
+    "mention": "<:ch_vex:1518245312500863158>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Vi": {
+    "id": "1518245314006487100",
+    "name": "ch_vi",
+    "mention": "<:ch_vi:1518245314006487100>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Viego": {
+    "id": "1518245315986194602",
+    "name": "ch_viego",
+    "mention": "<:ch_viego:1518245315986194602>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Viktor": {
+    "id": "1518245317097685072",
+    "name": "ch_viktor",
+    "mention": "<:ch_viktor:1518245317097685072>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Vladimir": {
+    "id": "1518245317873635330",
+    "name": "ch_vladimir",
+    "mention": "<:ch_vladimir:1518245317873635330>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Volibear": {
+    "id": "1518245319165608007",
+    "name": "ch_volibear",
+    "mention": "<:ch_volibear:1518245319165608007>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Warwick": {
+    "id": "1518245320507527348",
+    "name": "ch_warwick",
+    "mention": "<:ch_warwick:1518245320507527348>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "MonkeyKing": {
+    "id": "1518245321283469343",
+    "name": "ch_monkeyking",
+    "mention": "<:ch_monkeyking:1518245321283469343>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Xayah": {
+    "id": "1518245322638360681",
+    "name": "ch_xayah",
+    "mention": "<:ch_xayah:1518245322638360681>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Xerath": {
+    "id": "1518245324878250136",
+    "name": "ch_xerath",
+    "mention": "<:ch_xerath:1518245324878250136>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "XinZhao": {
+    "id": "1518245327214481519",
+    "name": "ch_xinzhao",
+    "mention": "<:ch_xinzhao:1518245327214481519>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Yasuo": {
+    "id": "1518245329554771968",
+    "name": "ch_yasuo",
+    "mention": "<:ch_yasuo:1518245329554771968>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Yone": {
+    "id": "1518245331593199686",
+    "name": "ch_yone",
+    "mention": "<:ch_yone:1518245331593199686>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Yorick": {
+    "id": "1518245333426110665",
+    "name": "ch_yorick",
+    "mention": "<:ch_yorick:1518245333426110665>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Yunara": {
+    "id": "1518245335258894547",
+    "name": "ch_yunara",
+    "mention": "<:ch_yunara:1518245335258894547>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Yuumi": {
+    "id": "1518245337242796043",
+    "name": "ch_yuumi",
+    "mention": "<:ch_yuumi:1518245337242796043>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zaahen": {
+    "id": "1518245339306659932",
+    "name": "ch_zaahen",
+    "mention": "<:ch_zaahen:1518245339306659932>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zac": {
+    "id": "1518245341378379916",
+    "name": "ch_zac",
+    "mention": "<:ch_zac:1518245341378379916>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zed": {
+    "id": "1518245343307759728",
+    "name": "ch_zed",
+    "mention": "<:ch_zed:1518245343307759728>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zeri": {
+    "id": "1518245345337937980",
+    "name": "ch_zeri",
+    "mention": "<:ch_zeri:1518245345337937980>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Ziggs": {
+    "id": "1518245347493679164",
+    "name": "ch_ziggs",
+    "mention": "<:ch_ziggs:1518245347493679164>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zilean": {
+    "id": "1518245349561733210",
+    "name": "ch_zilean",
+    "mention": "<:ch_zilean:1518245349561733210>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zoe": {
+    "id": "1518245351629525112",
+    "name": "ch_zoe",
+    "mention": "<:ch_zoe:1518245351629525112>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  },
+  "Zyra": {
+    "id": "1518245354364080289",
+    "name": "ch_zyra",
+    "mention": "<:ch_zyra:1518245354364080289>",
+    "updatedAt": "2026-06-21T13:48:27.582Z"
+  }
+}
